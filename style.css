@@ -1,0 +1,25 @@
+  a{
+    text-decoration: none;
+      }
+        h1{
+         width: 400px;
+            box-shadow: 50px 10px 15px 15px;
+            height: 100px;
+            background-color: aquamarine;
+            padding: 20px;
+        
+        }
+        span{
+            color: blue;
+            font-size: 150%;
+        }
+body{ 
+    background-color: darkgreen;
+}    
+
+
+    
+
+
+
+ 
